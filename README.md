@@ -10,7 +10,9 @@ Then checking for outliers and anomalities and lastly performing Exploratory Dat
 
 # Installation Requirements
 R
+
 RStudio
+
 Github
 
 # Known Bugs
